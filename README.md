@@ -1,6 +1,6 @@
 # Project Report
 
-This project explores various strategies to improve image classification accuracy and efficiency, including data augmentation, model compression, fast training techniques, knowledge distillation, and network structure optimization. Below is a concise summary.
+This experiment improves the original ResNet9 baseline by adopting more efficient and compact network architectures, ultimately enhancing its classification performance on CIFAR100.
 
 ## Data Augmentation
 
